@@ -1,7 +1,7 @@
 {
   "name": "osulevelcalculator.js",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.0.0",
+  "description": "Calculates the total score needed for a level in osu!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,13 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/EXtremeExploit/osuLevelCalculator.js.git"
   },
+  "keywords": [
+    "osu",
+    "level"
+  ],
   "author": "EXtremeExploit",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/EXtremeExploit/osuLevelCalculator.js/issues"
   },
   "homepage": "https://github.com/EXtremeExploit/osuLevelCalculator.js#readme",
-  "dependencies": {
-    "superagent": "^3.8.3"
-  }
+  "dependencies": {}
 }
