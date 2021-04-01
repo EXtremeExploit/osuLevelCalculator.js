@@ -3,6 +3,7 @@
   "version": "2.1.0",
   "description": "Calculates the total score needed for a level in osu!",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +20,5 @@
   "bugs": {
     "url": "https://github.com/EXtremeExploit/osuLevelCalculator.js/issues"
   },
-  "homepage": "https://github.com/EXtremeExploit/osuLevelCalculator.js#readme",
-  "dependencies": {}
+  "homepage": "https://github.com/EXtremeExploit/osuLevelCalculator.js#readme"
 }
