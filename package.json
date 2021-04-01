@@ -3,7 +3,6 @@
   "version": "2.0.0",
   "description": "Calculates the total score needed for a level in osu!",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
