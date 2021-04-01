@@ -1,6 +1,6 @@
 {
   "name": "osulevelcalculator.js",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Calculates the total score needed for a level in osu!",
   "main": "index.js",
   "type": "module",
